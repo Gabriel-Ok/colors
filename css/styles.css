@@ -1,0 +1,112 @@
+/*.nogutters
+{
+   margin-left: 0;
+   margin-right: 0;
+}*/
+/*a:hover
+{
+   display: none;
+}*/
+
+hover col-sm-12
+{
+   display: inline;
+   color: white;
+}
+.container
+{
+   height: 200px;
+   max-width: 824;
+   /*margin-left: auto;
+   margin-right: auto;*/
+/*background-color: blue;*/
+}
+.row
+{
+   height: 200px;
+}
+
+.blk
+{
+   height: 200px;
+   background-color: black;
+
+}
+
+.grn
+{
+   height: 200px;
+   background-color: green;
+
+   /*float: right;*/
+}
+
+.rd
+{
+   height: 200px;
+   background-color: red;
+
+}
+.bl
+{
+   height: 200px;
+   background-color: blue;
+/*right: 30px;*/
+   z-index: 2;
+}
+.yl
+{
+   height: 200px;
+   background-color: yellow;
+}
+.pur
+{
+   height: 200px;
+   background-color: purple;
+   width: 147px;
+   z-index: 1;
+   margin: 0;
+}
+.col-sm-12
+{
+   height: 200px;
+   padding: 0;
+}
+.col-sm-4
+{
+padding: 0;
+}
+.col-sm-8
+{
+   padding: 0;
+}
+.col-sm-3
+{
+   padding: 0;
+   /*right: 50px;*/
+}
+.col-sm-6
+{
+   padding: 0;
+}
+.mo
+{
+   right: 147px;
+   margin: 0px;
+}
+.mi
+ {
+    /*position: absolute;*/
+    float: right;
+    top: -200px;
+left: 146px;
+
+   /*right: 250px;*/
+}
+.gif
+{
+/*height: 200px;*/
+margin-top: 0;
+/*top: 50px;
+z-index: 50;*/
+}
